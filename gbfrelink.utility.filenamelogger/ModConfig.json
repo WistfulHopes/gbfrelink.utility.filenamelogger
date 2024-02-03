@@ -1,0 +1,29 @@
+{
+  "ModId": "gbfrelink.utility.filenamelogger",
+  "ModName": "Relink File Name Logger",
+  "ModAuthor": "WistfulHopes",
+  "ModVersion": "1.0.0",
+  "ModDescription": "Logs loaded file names for Granblue Fantasy Relink",
+  "ModDll": "gbfrelink.utility.filenamelogger.dll",
+  "ModIcon": "Preview.png",
+  "ModR2RManagedDll32": "x86/gbfrelink.utility.filenamelogger.dll",
+  "ModR2RManagedDll64": "x64/gbfrelink.utility.filenamelogger.dll",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "Tags": [],
+  "CanUnload": false,
+  "HasExports": false,
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "gbfrelink.utility.filenamelogger.ReleaseMetadata.json",
+  "PluginData": {},
+  "IsUniversalMod": false,
+  "ModDependencies": [
+    "Reloaded.Memory.SigScan.ReloadedII",
+    "reloaded.sharedlib.hooks"
+  ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [
+    "granblue_fantasy_relink.exe"
+  ],
+  "ProjectUrl": ""
+}
